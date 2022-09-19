@@ -12,4 +12,3 @@ names.pop();
 names.push("Pippo");
 names.unshift("Giovanni");
 
-console.log(names);
